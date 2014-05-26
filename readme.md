@@ -9,7 +9,7 @@ Single Display
 ![Single Display](https://raw.githubusercontent.com/KiwiStrongis/processing-display-info/pics/single_display.png)
 
 Multiple Displays  
-![Multiple Displays]()
+![Multiple Displays](https://raw.githubusercontent.com/kiwistrongis/processing-display-info/pics/multiple_displays.png)
 
 Multiple Displays on Windows  
 ![Multiple Displays on Windows]()
