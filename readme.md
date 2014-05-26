@@ -6,7 +6,7 @@ This is just a little utility that shows system's display info and the relative 
 ### Some Screenies
 
 Single Display  
-![Single Display]()
+![Single Display](https://raw.githubusercontent.com/KiwiStrongis/processing-window-test/pics/single_display.png)
 
 Multiple Displays  
 ![Multiple Displays]()
